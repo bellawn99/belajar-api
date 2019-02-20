@@ -1,4 +1,5 @@
-[{"id":1,"name":"Germaine Raise","gender":"Male"},
+{
+  "mahasiswa":[{"id":1,"name":"Germaine Raise","gender":"Male"},
 {"id":2,"name":"Melitta Wollers","gender":"Female"},
 {"id":3,"name":"Hasheem Rumsey","gender":"Male"},
 {"id":4,"name":"Allard Choake","gender":"Male"},
@@ -28,3 +29,4 @@
 {"id":28,"name":"Charil Ogilby","gender":"Female"},
 {"id":29,"name":"Antonie Yeudall","gender":"Female"},
 {"id":30,"name":"Kristo Oleshunin","gender":"Male"}]
+}
